@@ -1,10 +1,10 @@
 // ─── CONFIGURAÇÃO ───────────────────────────────────────────────────────────
 const BASE_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSJq1BdeNlo6gvM1vBhtgD88MRevuRrODf2NmVESwH5CMQ6VBkuZMUaNEr8xCoHeJlmnlsJaDV_Cj9L/pub';
 
-const URL_VERBAS     = BASE_URL + '?gid=0&single=true&output=csv';
-const URL_SERVIDORES = BASE_URL + '?gid=SUBSTITUA_GID_SERVIDORES&single=true&output=csv';
-const URL_CARGOS     = BASE_URL + '?gid=SUBSTITUA_GID_CARGOS&single=true&output=csv';
-const URL_ESTRUTURAS = BASE_URL + '?gid=SUBSTITUA_GID_ESTRUTURAS&single=true&output=csv';
+const URL_VERBAS     = BASE_URL + '?gid=1303157015&single=true&output=csv';
+const URL_SERVIDORES = BASE_URL + '?gid=1533392322&single=true&output=csv';
+const URL_CARGOS     = BASE_URL + '?gid=1823673227&single=true&output=csv';
+const URL_ESTRUTURAS = BASE_URL + '?gid=46958645&single=true&output=csv';
 
 // ─── REGRAS DE NEGÓCIO ──────────────────────────────────────────────────────
 const TETO_VEREADOR  = 92998.45;
